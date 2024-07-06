@@ -3,13 +3,13 @@
 `File Categorizer` es un script que organiza un directorio especificado que se le pasa como argumento y agrupa los archivos en diferentes carpetas según su tipo de archivo.
 
 ## Idea detrás del script
-Forma parte de un programa personal que cree porque las carpeas que más usaba, se desorganizaban muy facilmente, y era aburrido ponerse a ordenarlo manualmente. Por el lado técnico, quería probar Typescript y las caracteristicas nuevas de Node v22.0.0
+Forma parte de pequeño programa personal que cree porque las carpeas que más usaba, se desorganizaban muy facilmente, y era aburrido ponerse a ordenarlo manualmente. Por el lado técnico, quería probar configurar Typescript y las caracteristicas nuevas de ES2024.
 
 ## Tecnologías Usadas
 
 Este proyecto utiliza las siguientes tecnologías - más detalle en el `package.json`:
 
-- [**Node.js**](https://nodejs.org): Entorno de ejecución para JavaScript en el servidor.
+- [**Node.js**](https://nodejs.org): Entorno de ejecución para JavaScript en el servidor (v22.0.0)
 - [**TypeScript**](https://www.typescriptlang.org): Lenguaje de programación que extiende JavaScript con tipado estático.
 - **ts-node**: Herramienta para ejecutar directamente archivos TypeScript en Node.js.
 - **fs-extra**: Biblioteca que extiende las funcionalidades del módulo `fs` de Node.js.
