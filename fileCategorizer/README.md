@@ -22,8 +22,8 @@ Este proyecto utiliza las siguientes tecnologías - más detalle en el `package.
 1. Clona el repositorio en tu máquina local:
 
 ```bash
-git clone <URL_del_repositorio>
-cd file-categorizer
+git clone https://github.com/PereyraPaula/my-scripts.git
+cd my-scripts/file-categorizer
 ```
 
 2. Instala las dependencias utilizando `npm` (Yo la desarrollé usando pnpm):
