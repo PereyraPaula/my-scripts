@@ -1,4 +1,5 @@
 // Propósito: Explorar todas las carpetas dentro del directorio raíz especificado y eliminar todos los node_modules encontrados, acumulando el conteo de eliminaciones.
+// Min NODE version: v22.0.0
 
 import { argv } from 'node:process';
 import { styleText } from "node:util";
